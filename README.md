@@ -15,8 +15,6 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
 
-- 🖥️: My online portfolio: https://renanmaitan.netlify.app/
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-renanmaitan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/renanmaitan/)
 
 ---
